@@ -1,15 +1,15 @@
-## Data Science Take-Home Exercise: Product Competitor Analysis
+# Data Science Take-Home Exercise: Product Competitor Analysis
 
-# Overview
+## Overview
 You've been provided with an Amazon products dataset containing products across various categories. Your task is to build a recommendation system that identifies the N-closest competitors for any given product (ASIN) and present your findings to leadership.
 
 You are welcome to slim this dataset down in any way that you see fit. You are encouraged to make reasonable assumptions where helpful. There is no single "right" approach. A simple, well-reasoned model is sufficient. Beyond that, high-quality theories on features that would improve model - but require more time/resources than can be dedicated to this exersise - will be useful
 
-# Dataset: 
+## Dataset: 
 Download the Amazon Products Dataset 2023 from Kaggle: https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products?resource=download
 
-# Requirements
-# Part 1: Model Development
+## Requirements
+### Part 1: Model Development
 Build a system that takes an ASIN as input and returns the N-closest competitors. Your approach should:
 
   Define "competitor" - Clearly articulate your definition of what makes products competitive to each other
@@ -18,7 +18,7 @@ Build a system that takes an ASIN as input and returns the N-closest competitors
   Validation - Demonstrate that your model produces reasonable results
   Scalability considerations - Discuss how your solution would perform with larger datasets
 
-# Part 2: Executive Summary
+### Part 2: Executive Summary
 Prepare a concise presentation (4 slides or less) for the VP of Data and Analytics that includes:
 
   Methodology overview - High-level explanation of your approach (non-technical)
