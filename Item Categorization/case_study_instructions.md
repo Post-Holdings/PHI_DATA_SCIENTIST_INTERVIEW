@@ -1,6 +1,6 @@
-## Data Science Take-Home Exercise: Product Competitor Analysis
+# Data Science Take-Home Exercise: Product Competitor Analysis
 
-# Overview
+## Overview
 Your task is to build a recommendation system that identifies the N-closest competitors for any given product (ASIN) and present your findings to leadership, using a dataset containing Amazon products across various categories. The goal of this presentation is to show the executive that you that understand how to explain data science modeling to business people in a consise and effective manner.
 
 You are welcome to slim this dataset down in any way that you see fit, including limiting it to certain categories. You are encouraged to make reasonable assumptions where helpful. There is no single "right" approach. A simple, explanable model is sufficient. Beyond that, well-reasoned theories on features that would improve the model - but require more time/resources than can be dedicated to this exercise - will be a useful part of the presentation
@@ -8,8 +8,8 @@ You are welcome to slim this dataset down in any way that you see fit, including
 Dataset: 
 Download the Amazon Products Dataset 2023 from Kaggle: https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products?resource=download
 
-# Requirements
-Part 1: Model Development
+## Requirements
+### Part 1: Model Development
 Build a system that takes an ASIN as input and returns the N-closest competitors. Your approach should address:
 
 Define "competitor" - Clearly articulate your definition of what makes products competitive to each other
@@ -18,7 +18,7 @@ Model selection - Choose and implement an appropriate similarity/distance metric
 Validation - Demonstrate that your model produces reasonable results
 Scalability - Discuss how your solution would perform with larger datasets
 
-# Part 2: Executive Summary
+### Part 2: Executive Summary
 Prepare a concise presentation - 4 simple slides or less - for the VP of Data and Analytics that includes:
 
 Methodology overview - High-level explanation of your approach (non-technical)
