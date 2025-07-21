@@ -12,17 +12,17 @@ Download the Amazon Products Dataset 2023 from Kaggle: https://www.kaggle.com/da
 ### Part 1: Model Development
 Build a system that takes an ASIN as input and returns the N-closest competitors. Your approach should address:
 
-#### Define "competitor" - Clearly articulate your definition of what makes products competitive to each other
-#### Feature engineering - Create meaningful features from the available data to capture product similarity
-#### Model selection - Choose and implement an appropriate similarity/distance metric or machine learning approach
-#### Validation - Demonstrate that your model produces reasonable results
-#### Scalability - Discuss how your solution would perform with larger datasets
+####   Define "competitor" - Clearly articulate your definition of what makes products competitive to each other
+####   Feature engineering - Create meaningful features from the available data to capture product similarity
+####   Model selection - Choose and implement an appropriate similarity/distance metric or machine learning approach
+####   Validation - Demonstrate that your model produces reasonable results
+####   Scalability - Discuss how your solution would perform with larger datasets
 
 ### Part 2: Executive Summary
 Prepare a concise presentation - 4 simple slides or less - for the VP of Data and Analytics that includes:
 
-#### Methodology overview - High-level explanation of your approach (non-technical)
-#### Example outputs, insights and visuals - Show competitor recommendations for 2-5 diverse products with interesting insights
-#### Potential feature improvements - Features that you theorize would be effective, but required too much time/resources to include in this effort
+####   Methodology overview - High-level explanation of your approach (non-technical)
+####   Example outputs, insights and visuals - Show competitor recommendations for 2-5 diverse products with interesting insights
+####   Potential feature improvements - Features that you theorize would be effective, but required too much time/resources to include in this effort
 
 Feel free to reach out with questions.
