@@ -1,4 +1,4 @@
-##Data Science Take-Home Exercise: Product Competitor Analysis
+## Data Science Take-Home Exercise: Product Competitor Analysis
 
 #Overview
 You've will download a dataset containing Amazon products across various categories. Your task is to build a recommendation system that identifies the N-closest competitors for any given product (ASIN) and present your findings to leadership.
