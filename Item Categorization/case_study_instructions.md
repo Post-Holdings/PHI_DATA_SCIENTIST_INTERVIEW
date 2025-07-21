@@ -3,7 +3,7 @@
 # Overview
 You've will download a dataset containing Amazon products across various categories. Your task is to build a recommendation system that identifies the N-closest competitors for any given product (ASIN) and present your findings to leadership.
 
-You are welcome to slim this dataset down in any way that you see fit. You are encouraged to make reasonable assumptions where helpful. There is no single "right" approach. A simple, well-reasoned model is sufficient. Beyond that, high-quality theories on features that would improve model - but require more time/resources than can be dedicated to this exersise - will be a useful part of the presentation
+You are welcome to slim this dataset down in any way that you see fit. You are encouraged to make reasonable assumptions where helpful. There is no single "right" approach. A simple, well-reasoned model is sufficient. Beyond that, high-quality theories on features that would improve model - but require more time/resources than can be dedicated to this exercise - will be a useful part of the presentation
 
 Dataset: 
 Download the Amazon Products Dataset 2023 from Kaggle: https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products?resource=download
