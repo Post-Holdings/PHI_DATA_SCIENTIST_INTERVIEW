@@ -8,7 +8,7 @@ You are welcome to slim this dataset down in any way that you see fit. You are e
 Dataset: 
 Download the Amazon Products Dataset 2023 from Kaggle: https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products?resource=download
 
-#Requirements
+# Requirements
 Part 1: Model Development
 Build a system that takes an ASIN as input and returns the N-closest competitors. Your approach should address:
 
