@@ -24,3 +24,5 @@ Prepare a concise presentation - 4 simple slides or less - for the VP of Data an
 Methodology overview - High-level explanation of your approach (non-technical)
 Example outputs, insights and visuals - Show competitor recommendations for 2-5 diverse products with interesting insights
 Potential feature improvements - Features that you theorize would be effective, but required too much time/resources to include in this effort
+
+Feel free to reach out with questions.
