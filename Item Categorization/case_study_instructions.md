@@ -18,7 +18,7 @@ Model selection - Choose and implement an appropriate similarity/distance metric
 Validation - Demonstrate that your model produces reasonable results
 Scalability - Discuss how your solution would perform with larger datasets
 
-#Part 2: Executive Summary
+# Part 2: Executive Summary
 Prepare a concise presentation - 4 simple slides or less - for the VP of Data and Analytics that includes:
 
 Methodology overview - High-level explanation of your approach (non-technical)
